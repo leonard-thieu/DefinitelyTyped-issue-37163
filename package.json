@@ -1,0 +1,24 @@
+{
+  "name": "DefinitelyTyped-issue-37163",
+  "version": "1.0.0",
+  "description": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues/37163",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonard-thieu/DefinitelyTyped-issue-37163.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonard-thieu/DefinitelyTyped-issue-37163/issues"
+  },
+  "homepage": "https://github.com/leonard-thieu/DefinitelyTyped-issue-37163#readme",
+  "devDependencies": {
+    "@types/jquery": "^3.3.30",
+    "typescript": "3.5.3"
+  }
+}
